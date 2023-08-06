@@ -1,5 +1,7 @@
 # learn_vue
 
+работает коряво, буду искать работу на вью - добью
+
 ## Project setup
 ```
 npm install
